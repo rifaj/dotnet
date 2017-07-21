@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 
 // Test Comment
-// 
+// Test
 namespace bc_readme_gen
 {
     class Program
